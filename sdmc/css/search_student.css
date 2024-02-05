@@ -1,0 +1,23 @@
+        .student-table {
+            margin-top: 10px;
+            border-color: gainsboro;
+            border-spacing: 30px;
+            border-collapse: collapse;
+        }
+        
+        .student-table th {
+            background-color: #add8e6;
+            color: #3f5e8c;
+        }
+        
+        .student-table td,
+        th {
+            padding: 7px;
+        }
+        
+        .no-input-error {
+            background-color: rgb(255, 238, 238);
+            color: rgb(255, 0, 0);
+            text-align: center;
+            display: inline-block;
+        }
